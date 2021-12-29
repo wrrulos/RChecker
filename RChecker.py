@@ -74,24 +74,6 @@ def clear():
         os.system("clear")
 
 
-def check_os():
-    """
-    Detect the operating system
-    """
-
-    global os_name
-
-    if os.name == "nt":
-        os_name = "Windows"
-
-    else:
-        if os.path.exists("/data/data/com.termux/files/home"):
-            os_name = "Termux"
-
-        else:
-            os_name = "Linux"
-
-
 def check_connection():
     """
     Check if you have an internet connection
