@@ -143,6 +143,9 @@ def checker():
 
             print(f" {white}({lmagenta}{ip[0]}:{ip[1]}{white}) ({lgreen}Version: {green}{version}{white}) ({lyellow}{players}{white}) ({lcyan}{motd}){white})")
 
+        except KeyboardInterrupt:
+            exit()
+
         except socket.timeout:
             if not logs_file:
                 f.write(f"({ip[0]}:{ip[1]}) (timeout)\n")
