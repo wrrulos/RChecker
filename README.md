@@ -31,6 +31,7 @@ $ python3 -m pip install -r requirements.txt
 
 ```bash
 $ python3 RChecker.py -h
+
 usage: RChecker.py [-h] -f FILE [--timeout TIMEOUT] [--no-output]
 
 options:
