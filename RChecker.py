@@ -175,7 +175,6 @@ def check_arguments():
 
 def main():
     print(banner)
-    check_os()
     check_arguments()
     check_file()
     checker()
