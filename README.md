@@ -1,4 +1,4 @@
-# 🧨  RChecker v1.0
+# 🔎 RChecker v1.0
 
 <h3> Checker for Minecraft Servers </h3>
 <br/>
@@ -18,10 +18,10 @@
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/wrrulos/RSubd
+$ git clone https://github.com/wrrulos/RChecker
 
-# Go into the RSubd folder
-$ cd RSubd
+# Go into the RChecker folder
+$ cd RChecker
 
 # Install the requirements
 $ python3 -m pip install -r requirements.txt
