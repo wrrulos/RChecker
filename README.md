@@ -1,4 +1,4 @@
-# 🔎 RChecker v1.1
+# 🔎 RChecker v1.2
 
 <h3> Checker for Minecraft Servers </h3>
 <br/>
