@@ -4,7 +4,7 @@
 <br/>
 </br>
 <p align="center">
-<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/RChecker/RChecker.PNG" title="RChecker">
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/RChecker/img.png" title="RChecker">
 </p>
 <br/>
 
