@@ -56,7 +56,7 @@ python3 RChecker.py -f Scan.txt --no-output
 
 ## 📸 Gif
 
-<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/RChecker/RChecker.gif">
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/RChecker/Gif.gif">
 
 ## Licencia 
 
